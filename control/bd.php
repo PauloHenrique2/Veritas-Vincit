@@ -1,7 +1,7 @@
 <?php
  define('servidor', 'mysql:host=localhost;dbname=blogFilo;charset=utf8'); // Insira o seu host e nome do banco de dados
  define('user', 'root'); // Insira seu usuário do MySql
- define('password', 'iloveproggalo1616$'); // Insira sua senha do MySql
+ define('password', ''); // Insira sua senha do MySql
  
  class bd
  {
